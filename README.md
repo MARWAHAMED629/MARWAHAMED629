@@ -3,8 +3,6 @@
 ### Hi there 👋  I'm Marwa, a Software Engineer & Systems Designer
 ## About Me
 I am a passionate and detail-oriented Software Engineer with expertise in designing robust systems. My proficiency extends across various programming languages, including:
-## About Me
-I am a passionate and detail-oriented Software Engineer with expertise in designing robust systems. My proficiency extends across various programming languages and technologies, including:
 
 - JavaScript (JS)
 - C
